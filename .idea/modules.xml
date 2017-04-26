@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollApp.iml" filepath="$PROJECT_DIR$/CollApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialog/dialog.iml" filepath="$PROJECT_DIR$/dialog/dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/indexablerecyclerview/indexablerecyclerview.iml" filepath="$PROJECT_DIR$/indexablerecyclerview/indexablerecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sweetdialog/sweetdialog.iml" filepath="$PROJECT_DIR$/sweetdialog/sweetdialog.iml" />
+    </modules>
+  </component>
+</project>
